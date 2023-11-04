@@ -1,5 +1,9 @@
 @media (max-width: 575.98px) {
   #window {
+    background: url(/asset/20220618Blog-SolidHoney1200x630_8a82407f-b697-40bc-b451-d80b0bcef873.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     justify-content: center;
     padding: 0;
   }
@@ -30,6 +34,10 @@
 
 @media (min-width: 576px) and (max-width: 767.98px) {
   #window {
+    background: url(/asset/20220618Blog-SolidHoney1200x630_8a82407f-b697-40bc-b451-d80b0bcef873.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     justify-content: center;
     padding: 0;
   }
@@ -60,6 +68,10 @@
 
 @media (min-width: 768px) and (max-width: 991.98px) {
   #window {
+    background: url(/asset/20220618Blog-SolidHoney1200x630_8a82407f-b697-40bc-b451-d80b0bcef873.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     justify-content: center;
     padding: 0;
   }
